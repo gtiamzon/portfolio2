@@ -2,23 +2,23 @@ import React,{useState} from "react"
 import scrollTo from "gatsby-plugin-smoothscroll"
 const Navbar = () => {
 
-  const [navbar, setNavbar] = useState(false);
+  // const [navbar, setNavbar] = useState(false);
 
-  const changeBackground = () => {
-    if(window.scrollY >= 47) {
-      setNavbar(true)
-    } else {
-      setNavbar(false)
-    }
+  // const changeBackground = () => {
+  //   if(window.scrollY >= 47) {
+  //     setNavbar(true)
+  //   } else {
+  //     setNavbar(false)
+  //   }
       
-  }
+  // }
 
-  window.addEventListener('scroll', changeBackground);
+  // window.addEventListener('scroll', changeBackground);
 
   return (
     <div className="section">
       <div className="container" id="home">
-        <div className={navbar ? 'navbar-wrapper active' : 'navbar-wrapper'}>
+        <div className='navbar-wrapper'>
           <div className="links-wrapper">
             <button onClick={() => scrollTo("#home")}>Home</button>
             <button onClick={() => scrollTo("#about")}>About</button>
