@@ -3,10 +3,10 @@ import data from "../yourdata"
 
 const Skills = () => {
   return (
-    <div className="section">
+    <div className="section" id="skills">
       <div className="container">
         <div className="skills-container">
-          <h1>Skills</h1>
+          <h1>Stack</h1>
           <div className="skills-grid">
             {data.skills.map((skill, index) => (
               <div className="skill" key={index}>

@@ -35,11 +35,13 @@
     p {
       @include media(">=tablet", "<desktop") {
         text-align: center;
+        font-size: 15px;
       }
     }
   }
   .image-wrapper {
     width: 50%;
+    height: 70vh;
     display: flex;
     align-items: center;
     justify-content: center;
