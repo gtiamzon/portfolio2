@@ -211,7 +211,7 @@ export default {
     },
     { 
       img: resume, 
-      url: "https://docs.google.com/document/d/1asePiYXxKhWuOSNPVVQgyMKO4V6oR5SfL1lL-HforFc" 
+      url: "https://docs.google.com/document/d/1DGz05jlfOMWsGQJBX7S9dqKZnsibxyGkJZ5ZR0Z_WHs" 
     },
   ],
 
