@@ -37,7 +37,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "Former employee in the retail sector now a Software Developer with skills in JavaScript, Python and React. I thrive in environments where I’m constantly learning and I work hard to improve myself wherever I am. With multiple years of communicating with both co-workers and customers I have a strong foundation in communication and collaboration.",
+    "Former employee in the retail sector now a Full-Stack Software Developer with skills in JavaScript, Python and React. I thrive in environments where I’m constantly learning and I work hard to improve myself wherever I am. With multiple years of communicating with both co-workers and customers I have a strong foundation in communication and collaboration.",
 
   //Contact Email
   contactEmail: "gerald.tiamzon@yahoo.com",
@@ -96,7 +96,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Former employee in the retail sector now a Software Developer with skills in JavaScript, Python and React. I thrive in environments where I’m constantly learning and I work hard to improve myself wherever I am. With multiple years of communicating with both co-workers and customers I have a strong foundation in communication and collaboration.",
+    "Former employee in the retail sector now a Full-Stack Software Developer with skills in JavaScript, Python and React. I thrive in environments where I’m constantly learning and I work hard to improve myself wherever I am. With multiple years of communicating with both co-workers and customers I have a strong foundation in communication and collaboration.",
   aboutParaTwo:
     "When I'm not writing code, you can find me doing something with my car. From performing maintenance to driving on race tracks, you can count me in. Other things I enjoy are food, traveling and playing video games.",
   aboutParaThree:
