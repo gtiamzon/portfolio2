@@ -203,7 +203,7 @@ export default {
     // Add Or Remove The Link Accordingly
     {
       img: linkedin,
-      url: "https://www.instagram.com/",
+      url: "https://www.linkedin.com/in/gerald-tiamzon/",
     },
     { 
       img: githubIcon, 
