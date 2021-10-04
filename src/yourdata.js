@@ -52,7 +52,7 @@ export default {
         "An app to view and compare lap times. My objective is to create an app where you can see a list of tracks and see the top times of users given the track you use. The user can view the lap times from fastest to slowest to help align what their looking for to compare themselves to others and help improve on their own lap time.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.imgur.com/jhDeXDF.png",
+        "https://i.imgur.com/D0N1uDl.png",
       //Project URL - Add Your Project Url Here
       url: "https://timedattack.herokuapp.com/",
       github: "https://github.com/gtiamzon/timedattack"
@@ -63,7 +63,7 @@ export default {
         "Wayfarer is a web application where people can share tips about their travel locations around the world. It builds a community for people seeking to travel or craving to learn about the art and architectures around the world. Users can create posts to share their travel tips and highlights. Users also have their own profile page, which shows their information and their history of posts in descending order.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.imgur.com/vkgtlFo.png",
+        "https://i.imgur.com/1Zy8KMX.png",
       //Project URL - Add Your Project Url Here
       url: "https://wayfarer-art-app.herokuapp.com/",
       github: "https://github.com/selaguardia/ProjectWayfarer"
@@ -74,7 +74,7 @@ export default {
         "A Pokemon inspired photo share app Our objective is to reverse engineer a similar web app to Instagram, called Pokégram.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.imgur.com/E5ollwM.png",
+        "https://i.imgur.com/625H7BG.png",
       //Project URL - Add Your Project Url Here
       url: "https://bestpokegram.herokuapp.com/posts",
       github: "https://github.com/jennifergoldberg/Pokegram"
