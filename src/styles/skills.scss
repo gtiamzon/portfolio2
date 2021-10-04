@@ -24,15 +24,28 @@
       grid-template-columns: 1fr 1fr;
     }
     .skill {
+      padding-bottom: 10px;
       display: flex;
       flex-direction: column;
       align-items: center;
       text-align: center;
+      transition: .5s;
       img {
         height: 5rem;
+        transition: .5s;
       }
       p {
         font-size: 14px;
+        opacity: 0;
+        transition: .5s;
+      }
+      &:hover {
+        img{
+          transform: scale(1.1);
+        }
+        p{
+          opacity: 1;
+        }
       }
     }
   }

@@ -12,6 +12,8 @@ const About = () => {
             <p>
               {data.aboutParaOne}
               <br></br>
+              <br></br>
+              {data.aboutParaTwo}
             </p>
           </div>
           <div className="image-wrapper">

@@ -66,6 +66,7 @@ export default {
         "https://i.imgur.com/jhDeXDF.png",
       //Project URL - Add Your Project Url Here
       url: "https://timedattack.herokuapp.com/",
+      github: "https://github.com/gtiamzon/timedattack"
     },
     {
       title: "Wayfarer", //Project Title - Add Your Project Title Here
@@ -76,6 +77,7 @@ export default {
         "https://i.imgur.com/vkgtlFo.png",
       //Project URL - Add Your Project Url Here
       url: "https://wayfarer-art-app.herokuapp.com/",
+      github: "https://github.com/selaguardia/ProjectWayfarer"
     },
     {
       title: "Pokégram", //Project Title - Add Your Project Title Here
@@ -86,16 +88,18 @@ export default {
         "https://i.imgur.com/E5ollwM.png",
       //Project URL - Add Your Project Url Here
       url: "https://bestpokegram.herokuapp.com/posts",
+      github: "https://github.com/jennifergoldberg/Pokegram"
     },
     {
       title: "Tomagotchi", //Project Title - Add Your Project Title Here
       para:
-        "The goal of this first GA project is to create a tomagotchi-like game with three metrics that need to be mainted with three buttons.", // Add Your Service Type Here
+        "The goal of this first GA project is to create a tomagotchi-like game with three metrics that need to be maintained with three buttons.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://i.imgur.com/mawWlIe.png",
       //Project URL - Add Your Project Url Here
       url: "https://gtiamzon.github.io/Project-Zero---Tomagotchi-/",
+      github: "https://github.com/gtiamzon/Project-Zero---Tomagotchi-"
     },
     // {
     //   title: "Project Five", //Project Title - Add Your Project Title Here
@@ -133,9 +137,9 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Former employee in the retail sector now a Software Developer with skills in JavaScript, Python and React. I thrive in environments where I’m constantly learning and I work hard to improve myself wherever I am. With multiple years of communicating with both co-workers and customers I have a strong foundation in communication and collaboration",
+    "Former employee in the retail sector now a Software Developer with skills in JavaScript, Python and React. I thrive in environments where I’m constantly learning and I work hard to improve myself wherever I am. With multiple years of communicating with both co-workers and customers I have a strong foundation in communication and collaboration.",
   aboutParaTwo:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "When I'm not writing code, you can find me doing something with my car. From performing maintenance to driving on race tracks, you can count me in. Other things I enjoy are food, traveling and playing video games.",
   aboutParaThree:
     "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
   aboutImage:

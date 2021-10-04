@@ -29,15 +29,25 @@
     }
 
     .btn {
+      margin: 5px;
       background-color: black;
       color: white;
       padding: 10px;
       text-decoration: none;
+      transition: .5s;
+
+      &:hover {
+          opacity: 1;
+          background-color: rgb(100, 100, 100);
+      }
+
     }
+
     &:hover {
       opacity: 1;
       transform: translate(0, 0px);
       background-color: rgba(0,0,0,.5);
+      cursor: default;
     }
   }
 }
