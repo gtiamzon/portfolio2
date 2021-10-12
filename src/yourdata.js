@@ -49,46 +49,51 @@ export default {
     {
       title: "Timed Attack", //Project Title - Add Your Project Title Here
       para:
-        "An app to view and compare lap times. My objective is to create an app where you can see a list of tracks and see the top times of users given the track you use. The user can view the lap times from fastest to slowest to help align what their looking for to compare themselves to others and help improve on their own lap time.", // Add Your Service Type Here
+        "A full-stack web application where other track-focused car enthusiasts can keep track of their lap times given a specific track of their choice. The goal of Timed Attack is to create a platform to compare lap times of other users and see a breakdown of their car to see to see how fast they are or seek opportunities to improve. Come test my site with this account but please be kind. test@gmail.com | PW: test1 ", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://i.imgur.com/D0N1uDl.png",
       //Project URL - Add Your Project Url Here
       url: "https://timedattack.herokuapp.com/",
-      github: "https://github.com/gtiamzon/timedattack"
+      github: "https://github.com/gtiamzon/timedattack",
+      stack: "Node.JS | Express | Mongoose | Bootstrap"
     },
     {
       title: "Wayfarer", //Project Title - Add Your Project Title Here
       para:
-        "Wayfarer is a web application where people can share tips about their travel locations around the world. It builds a community for people seeking to travel or craving to learn about the art and architectures around the world. Users can create posts to share their travel tips and highlights. Users also have their own profile page, which shows their information and their history of posts in descending order.", // Add Your Service Type Here
+        "Wayfarer is a full-stack web application where people can share tips about their travel locations around the world. It builds a community for people seeking to travel or craving to learn about the art and architectures around the world. Users can create posts to share their travel tips and highlights. Users also have their own profile page, which shows their information and their history of posts in descending order.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://i.imgur.com/1Zy8KMX.png",
       //Project URL - Add Your Project Url Here
       url: "https://wayfarer-art-app.herokuapp.com/",
-      github: "https://github.com/selaguardia/ProjectWayfarer"
+      github: "https://github.com/selaguardia/ProjectWayfarer",
+      stack:"Django | Python | PostgreSQL | Bootstrap"
     },
     {
       title: "Pokégram", //Project Title - Add Your Project Title Here
       para:
-        "A Pokemon inspired photo share app Our objective is to reverse engineer a similar web app to Instagram, called Pokégram.", // Add Your Service Type Here
+        "A Pokemon inspired photo share full-stack application in an effort to reverse engineer Instagram. Utilizing four key features of Instagram by allowing the user to create, delete, update, and like both posts and comments while having the goal of improving the user experience.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://i.imgur.com/625H7BG.png",
       //Project URL - Add Your Project Url Here
       url: "https://bestpokegram.herokuapp.com/posts",
-      github: "https://github.com/jennifergoldberg/Pokegram"
+      github: "https://github.com/jennifergoldberg/Pokegram",
+      stack: "Node.JS | Express | Mongoose | Bootstrap"
     },
     {
       title: "Tomagotchi", //Project Title - Add Your Project Title Here
       para:
-        "The goal of this first GA project is to create a tomagotchi-like game with three metrics that need to be maintained with three buttons.", // Add Your Service Type Here
+        "The goal of this project is to create a tomagotchi-like game, where the user has to keep the Avatar alive by eating, training, and meditating. By maintaining these three metrics and gaining levels, the Avatar will evolve depending on the level.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://i.imgur.com/mawWlIe.png",
       //Project URL - Add Your Project Url Here
       url: "https://gtiamzon.github.io/Project-Zero---Tomagotchi-/",
-      github: "https://github.com/gtiamzon/Project-Zero---Tomagotchi-"
+      github: "https://github.com/gtiamzon/Project-Zero---Tomagotchi-",
+      stack: "HTML | CSS | JavaScript | PSone.css"
+    
     },
   ],
 
@@ -96,7 +101,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Former employee in the retail sector now a Full-Stack Software Developer with skills in JavaScript, Python and React. I thrive in environments where I’m constantly learning and I work hard to improve myself wherever I am. With multiple years of communicating with both co-workers and customers I have a strong foundation in communication and collaboration.",
+    "Former employee in the retail sector now a Full-Stack Software Engineer with skills in JavaScript, Python and React. I thrive in environments where I’m constantly learning and I work hard to improve myself wherever I am. With multiple years of communicating with both co-workers and customers I have a strong foundation in communication and collaboration.",
   aboutParaTwo:
     "When I'm not writing code, you can find me doing something with my car. From performing maintenance to driving on race tracks, you can count me in. Other things I enjoy are food, traveling and playing video games.",
   aboutParaThree:

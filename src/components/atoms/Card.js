@@ -1,6 +1,6 @@
 import React from "react"
 
-const Card = ({ heading, paragraph, imgUrl, projectLink, githubLink }) => {
+const Card = ({ heading, paragraph, imgUrl, projectLink, githubLink, stack }) => {
   return (
     <div
       className="card"
@@ -14,6 +14,7 @@ const Card = ({ heading, paragraph, imgUrl, projectLink, githubLink }) => {
       <div id="cardback">
         <div className="content">
           <h1 className="header">{heading}</h1>
+          <h4 className="stack">{stack}</h4>
           <p className="text">{paragraph}</p>
           <div id="card-button" >
             <a

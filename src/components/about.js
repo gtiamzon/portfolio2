@@ -8,7 +8,12 @@ const About = () => {
       <div className="container">
         <div className="about-section">
           <div className="content">
-              <h1>About Me</h1>
+              <h1>
+                Gerald 
+                <br></br> 
+                <br></br> 
+                Tiamzon
+              </h1>
             <p>
               {data.aboutParaOne}
               <br></br>
