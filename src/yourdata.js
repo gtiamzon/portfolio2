@@ -52,7 +52,7 @@ export default {
         "A full-stack web application where other track-focused car enthusiasts can keep track of their lap times given a specific track of their choice. The goal of Timed Attack is to create a platform to compare lap times of other users and see a breakdown of their car to see to see how fast they are or seek opportunities to improve. Come test my site with this account but please be kind. test@gmail.com | PW: test1 ", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.imgur.com/D0N1uDl.png",
+        "https://i.imgur.com/bAkmSoZ.jpg?2",
       //Project URL - Add Your Project Url Here
       url: "https://timedattack.herokuapp.com/",
       github: "https://github.com/gtiamzon/timedattack",
