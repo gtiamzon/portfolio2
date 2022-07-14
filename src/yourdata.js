@@ -234,7 +234,7 @@ export default {
     },
     { 
       img: resume, 
-      url: "https://docs.google.com/document/d/1DGz05jlfOMWsGQJBX7S9dqKZnsibxyGkJZ5ZR0Z_WHs/edit" 
+      url: "https://docs.google.com/document/d/1nLSO0aydql0R9xq0q_wHMZT4EzYNNWNSQFfE14YE5V4/edit?usp=sharing" 
     },
   ],
 
