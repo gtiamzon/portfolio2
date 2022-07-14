@@ -16,6 +16,9 @@ import yarn from './images/yarn.png'
 import express from './images/express.png'
 import linkedin from './images/linkedin.svg.png'
 import resume from './images/resume.png'
+import gitlab from './images/gitlab.svg'
+import jira from './images/Jira.png'
+import rust from './images/rust.png'
 
 
 // Social Icon
@@ -191,6 +194,21 @@ export default {
       para:
         "Yarn",
     },
+    {
+      img: gitlab,
+      para:
+        "Gitlab"
+    },
+    {
+      img: jira,
+      para:
+        "Jira"
+    },
+    {
+      img: rust,
+      para:
+        "Rust"
+    }
   ],
 
   // End Skills Section --------------------------
