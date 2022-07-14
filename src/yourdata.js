@@ -120,16 +120,6 @@ export default {
 
   skills: [
     {
-      img: bootstrap,
-      para:
-        "Bootstrap",
-    },
-    {
-      img: css,
-      para:
-        "CSS3",
-    },
-    {
       img: django,
       para:
         "Django",
@@ -138,6 +128,16 @@ export default {
       img: express,
       para:
         "Express",
+    },
+    {
+      img: bootstrap,
+      para:
+        "Bootstrap",
+    },
+    {
+      img: css,
+      para:
+        "CSS3",
     },
     {
       img: html,
